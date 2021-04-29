@@ -45,4 +45,4 @@ Tadaa! We have all things installed. Now it's up to you to look at the code and 
 
 ---
 
-This project was developed during the NLW#5 event brought by [Rocketseat](https://rocketseat.com.br/ "Rocketseat") .
+This project was developed during the NLW#5 event, brought up by [Rocketseat](https://rocketseat.com.br/ "Rocketseat") .
