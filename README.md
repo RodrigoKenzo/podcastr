@@ -41,7 +41,7 @@ Install Yarn, Typescript and Sass. Use the following commands on the terminal:
 
 ```
 
-Now we have all things installed. Now look at the code and figure out what each command does. Have fun! =D
+Tadaa! We have all things installed. Now it's up to you to look at the code and figure out what each command does. Have fun! =D
 
 ---
 
